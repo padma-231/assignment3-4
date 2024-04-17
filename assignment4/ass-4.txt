@@ -1,0 +1,10 @@
+Observation
+1. Glucose Statistics
+
+The mean glucose level of the sample group is lower than the population average, but the sample group has a higher peak glucose level, indicating greater variability in the glucose level distribution.
+2. Body mass index (BMI) Statistics
+
+This graph compares the 98th percentiles of the population and the sample. The 98th percentiles indicate that the sample has significantly lower body mass index than the population as a whole. This indicates that higher body mass index values are more common in the population than in a sample.
+3. Blood Pressure Statistics
+
+Blood pressure statistics are violin plots that compare the bootstrap mean and median blood pressure values to the population corresponding values. The red dots indicate the distribution shapes for the bootstrap sample. The population statistics fall within the bootstrap generated values for both mean and median values.
